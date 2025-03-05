@@ -1,3 +1,4 @@
+MySQL_HOST: "mysql-{{ ENVIRONMENT }}.mohanaaws.store"
 MySQL_USER: root
 MySQL_PASSWORD: ExpenseApp1
 APP_LOCATION: /app 
